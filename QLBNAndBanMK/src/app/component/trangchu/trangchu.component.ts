@@ -11,9 +11,4 @@ export class TrangchuComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  array = [
-    'assets/images/logo_trang.png',
-    'assets/images/logo.png'
-  ];
-  effect = 'scrollx';
 }
